@@ -15,3 +15,4 @@ mods/
 # Optionally, ignore any .gitignore files within the mods subdirectories
 /mods/**/.gitignore
 >>>>>>> 771824d443cc16afe4596048c209ef01eb9aed76
+config/config.json
