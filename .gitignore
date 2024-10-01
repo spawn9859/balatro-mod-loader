@@ -1,6 +1,6 @@
 # Ignore everything in the mods folder
 <<<<<<< HEAD
-/mods
+/mods/*
 /venv
 
 # Optionally, ignore any .gitignore files within the mods subdirectories
