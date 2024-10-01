@@ -9,7 +9,7 @@
 # Ignore the mod loader log file
 modloader.log
 =======
-mods/
+mods/*
 /venv
 
 # Optionally, ignore any .gitignore files within the mods subdirectories
